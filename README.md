@@ -236,5 +236,3 @@ The modular structure (`lib/niches`, `lib/prompts`, `lib/types`) makes this stra
 - Built by Austin Jones
 
 ---
-
-*This tool was built to make prospects say: "This feels like it was built for me."*
